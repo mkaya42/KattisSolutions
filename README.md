@@ -1,4 +1,4 @@
-This repository contains solutions to Kattis exercises.
+This repository contains solutions to Kattis archivesgi.
 
 # Kattis Solutions
 Solutions to the [Kattis archives](https://open.kattis.com/).
