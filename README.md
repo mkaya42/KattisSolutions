@@ -1,4 +1,4 @@
-This repository contains solutions to Kattis archivesgit .
+This repository contains solutions to Kattis archives.
 
 # Kattis Solutions
 Solutions to the [Kattis archives](https://open.kattis.com/).
