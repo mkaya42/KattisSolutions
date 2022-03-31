@@ -6,7 +6,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 [![Kattis](./kattisLogo.jpg)
 ](https://open.kattis.com/)
 
-## Problems
+## Problems 
 | Task| Name| Solution | Status |
 | --- | ---  | --- | --- | 
 | 1 | [Hello World ](https://open.kattis.com/problems/hello) | [Hello World ](src/task1_HelloWorld/Task1.java) | :ballot_box_with_check: |
