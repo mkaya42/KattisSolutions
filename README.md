@@ -19,4 +19,6 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | 8 | [Which is Greater? ](https://open.kattis.com/problems/whichisgreater) | [Which is Greater? ](src/task8_WhichIsGreater/Task8.java) | :ballot_box_with_check: |
 | 9 | [Two-sum ](https://open.kattis.com/problems/twosum) | [Two-sum ](src/task9_TwoSum/Task9.java) | :ballot_box_with_check: |
 | 10 | [Triangle Area ](https://open.kattis.com/problems/triarea) | [Triangle Area ](src/task10_TriArea/Task10.java) | :ballot_box_with_check: |
-| 10 | [Tarifa ](https://open.kattis.com/problems/tarifa) | [Tarifa ](src/task11_Tarifa/Task11.java) | :white_large_square: |
+| 11 | [Tarifa ](https://open.kattis.com/problems/tarifa) | [Tarifa ](src/task11_Tarifa/Task11.java) | :ballot_box_with_check: |
+| 12 | [Take Two Stones ](https://open.kattis.com/problems/twostones) | [Take Two Stones  ](src/task12_TwoStones/Task12.java) | :ballot_box_with_check: |
+| 13 | [Stuck In A Time Loop ](https://open.kattis.com/problems/timeloop) | [Stuck In A Time Loop ](src/task13_TimeLoop/Task13.java) | :white_large_square: |
