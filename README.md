@@ -21,4 +21,6 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | 10 | [Triangle Area ](https://open.kattis.com/problems/triarea) | [Triangle Area ](src/task10_TriArea/Task10.java) | :ballot_box_with_check: |
 | 11 | [Tarifa ](https://open.kattis.com/problems/tarifa) | [Tarifa ](src/task11_Tarifa/Task11.java) | :ballot_box_with_check: |
 | 12 | [Take Two Stones ](https://open.kattis.com/problems/twostones) | [Take Two Stones  ](src/task12_TwoStones/Task12.java) | :ballot_box_with_check: |
-| 13 | [Stuck In A Time Loop ](https://open.kattis.com/problems/timeloop) | [Stuck In A Time Loop ](src/task13_TimeLoop/Task13.java) | :white_large_square: |
+| 13 | [Stuck In A Time Loop ](https://open.kattis.com/problems/timeloop) | [Stuck In A Time Loop ](src/task13_TimeLoop/Task13.java) | :ballot_box_with_check: |
+| 14 | [Solving for Carrots ](https://open.kattis.com/problems/carrots) | [Solving for Carrots  ](src/task14_SolvingForCarrots/Task14.java) | :ballot_box_with_check: |
+| 15 | [Shattered Cake ](https://open.kattis.com/problems/shatteredcake) | [Shattered Cake  ](src/task15_ShatteredCake/Task15.java) | :white_large_square: |
